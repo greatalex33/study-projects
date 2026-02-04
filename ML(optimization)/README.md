@@ -1,1 +1,1 @@
-
+Задача: Поиск и оптимизация наилучших параметров моделей машинного обучения (LogisticRegresiion, RandomForestClassifier) с помощью различных алгоритмов (RandomizedSearch, GridSearch, Optuna, Hyperopt)
